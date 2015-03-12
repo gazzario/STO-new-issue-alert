@@ -1,0 +1,976 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Inside your latest School Travel Organiser magazine</title>
+    <style type="text/css">
+        /* ///////// CLIENT-SPECIFIC STYLES ///////// */
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+            .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+            body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+            table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+            img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+            /* ///////// RESET STYLES ///////// */
+            body{margin:0; padding:0;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table{border-collapse:collapse !important;}
+            body, #bodyTable, #bodyCell {height:100% !important; margin:0; padding:0; width:100% !important;}
+            #topTable, #topTableCell {margin:0; padding:0; width:100% !important;}
+
+            /* ///////// TEMPLATE STYLES ///////// */
+            
+            /* BLUE: #ed1c24  GREY-BLUE: #59676b  DARK BLUE: #11272d */
+
+            /* ========== Page Styles ========== */
+
+            #bodyCell{padding-top:20px; padding-right:20px; padding-bottom:20px; padding-left:20px;}
+            .templateContainer, .templateContainerMain{width:600px;}
+
+            /**
+            * @tab Page
+            * @section background style
+            * @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+            * @theme page
+            */
+            body, #bodyTable{
+    /*@editable*/ background-color:#FFFFFF;
+            }
+            
+            /* GD STYLING */
+            #topTable{
+    background-color:#FFFFFF;
+            }
+            
+            #topTableCell{
+                padding-top:20px;
+                padding-right:0;
+                padding-bottom:0;
+                padding-left:0;
+            }
+            
+            .topGraphic{
+                color:#F1F1F1;
+                font-family:Helvetica;
+                font-size:14px;
+                line-height:150%;
+                padding-top:0;
+                padding-right:16px;
+                padding-bottom:20px;
+                padding-left:16px;
+                text-align:center;
+            }
+            
+            .topGraphicImage{
+                height:auto;
+                max-width:268px;
+            }
+            
+            #socialIconsTable{
+                background-color:#FFFFFF;
+                padding-top:0;
+                padding-right:0;
+                padding-bottom:10px;
+                padding-left:0;
+            }
+            
+            .socialIconsGraphic{
+                color:#2f3035;
+                font-family:Helvetica;
+                font-size:12px;
+                line-height:150%;
+                padding-top:10px;
+                padding-right:16px;
+                padding-bottom:10px;
+                padding-left:16px;
+                text-align:center;
+            }
+            
+            .socialIconsImage{
+                height:auto;
+                max-width:40px;
+            }
+            
+            .website-logo{
+                height:auto;
+                max-width:270px;
+            }
+
+            /**
+            * @tab Page
+            * @section background style
+            * @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+            * @theme page
+            */
+            #bodyCell{
+                /*@editable border-top:4px solid #BBBBBB; */
+            }
+
+            /**
+            * @tab Page
+            * @section email border
+            * @tip Set the border for your email.
+            */
+            .templateContainerMain{
+                /*@editable   border:1px solid #BBBBBB;
+                /*@editable -webkit-box-shadow: 0px 0px 8px 0px rgba(44, 44, 44, 0.25); */
+                /*@editable -moz-box-shadow:    0px 0px 8px 0px rgba(44, 44, 44, 0.25); */
+                /*@editable box-shadow:         0px 0px 8px 0px rgba(44, 44, 44, 0.25); */
+            }
+
+            /**
+            * @tab Page
+            * @section heading 1
+            * @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+            * @style heading 1
+            */
+            h1, .intro h1{
+                /*@editable*/ color:#ed1c24 !important;
+                display:block;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:26px;
+                /*@editable*/ font-style:normal;
+                /*@editable*/ font-weight:bold;
+                /*@editable*/ line-height:100%;
+                /*@editable*/ letter-spacing:normal;
+                margin-top:0;
+                margin-right:0;
+                margin-bottom:10px;
+                margin-left:0;
+                /*@editable*/ text-align:left;
+            }
+            
+            .intro h1{
+                text-align:center;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 2
+            * @tip Set the styling for all second-level headings in your emails.
+            * @style heading 2
+            */
+            h2{
+                /*@editable*/ color:#59676b !important;
+                display:block;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:20px;
+                /*@editable*/ font-style:normal;
+                /*@editable*/ font-weight:bold;
+                /*@editable*/ line-height:120%;
+                /*@editable*/ letter-spacing:normal;
+                margin-top:0;
+                margin-right:0;
+                margin-bottom:10px;
+                margin-left:0;
+                /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 3
+            * @tip Set the styling for all third-level headings in your emails.
+            * @style heading 3
+            */
+            h3{
+                /*@editable*/ color:#606060 !important;
+                display:block;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:16px;
+                /*@editable*/ font-style:normal;
+                /*@editable*/ font-weight:normal;
+                /*@editable*/ line-height:120%;
+                /*@editable*/ letter-spacing:normal;
+                margin-top:0;
+                margin-right:0;
+                margin-bottom:10px;
+                margin-left:0;
+                /*@editable*/ text-align:center;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 4
+            * @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+            * @style heading 4
+            */
+            h4{
+                /*@editable*/ color:#606060 !important;
+                display:block;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:15px;
+                /*@editable*/ font-style:normal;
+                /*@editable*/ font-weight:normal;
+                /*@editable*/ line-height:120%;
+                /*@editable*/ letter-spacing:normal;
+                margin-top:0;
+                margin-right:0;
+                margin-bottom:10px;
+                margin-left:0;
+                /*@editable*/ text-align:left;
+            }
+			
+			p{
+				margin:0;
+				margin-top:0;
+                margin-right:0;
+                margin-bottom:10px;
+                margin-left:0;
+				padding-top:0;
+				padding-right:0;
+				padding-bottom:0;
+				padding-left:0;
+			}
+
+            /* ========== Header Styles ========== */
+
+            /**
+            * @tab Header
+            * @section preheader style
+            * @tip Set the background color and bottom border for your email's preheader area.
+            * @theme header
+            */
+            #templatePreheader{
+                /*@editable*/ background-color:#FFFFFF;
+            }
+
+            /**
+            * @tab Header
+            * @section preheader text
+            * @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+            */
+            .preheaderContent{
+                /*@editable*/ color:#606060;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:10px;
+                /*@editable*/ line-height:125%;
+                /*@editable*/ text-align:center;
+            }
+
+            /**
+            * @tab Header
+            * @section preheader link
+            * @tip Set the styling for your email's preheader links. Choose a color that helps them stand out from your text.
+            */
+            .preheaderContent a:link, .preheaderContent a:visited, /* Yahoo! Mail Override */ .preheaderContent a .yshortcuts /* Yahoo! Mail Override */{
+                /*@editable*/ color:#606060;
+                /*@editable*/ font-weight:normal;
+                /*@editable*/ text-decoration:underline;
+            }
+
+            /**
+            * @tab Header
+            * @section header style
+            * @tip Set the background color and borders for your email's header area.
+            * @theme header
+            */
+            #templateHeader{
+                /*@editable*/ background-color:#F4F4F4;
+            }
+
+            /**
+            * @tab Header
+            * @section header text
+            * @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+            */
+            .headerContent{
+                /*@editable*/ color:#505050;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:20px;
+                /*@editable*/ font-weight:bold;
+                /*@editable*/ line-height:100%;
+                /*@editable*/ padding-top:0;
+                /*@editable*/ padding-right:0;
+                /*@editable*/ padding-bottom:0;
+                /*@editable*/ padding-left:0;
+                /*@editable*/ text-align:left;
+                /*@editable*/ vertical-align:middle;
+            }
+
+            /**
+            * @tab Header
+            * @section header link
+            * @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+            */
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                /*@editable*/ color:#FFFFFF;
+            }
+
+            #headerImage{
+                height:auto;
+                max-width:600px;
+            }
+
+            /* ========== Body Styles ========== */
+
+            /**
+            * @tab Body
+            * @section body style
+            * @tip Set the background color and borders for your email's body area.
+            */
+            .templateBody{
+                /*@editable*/ background-color:#FFFFFF;
+                border-top: 1px solid #BEBEBE;
+            }
+            
+            /* FOR LIGHT GREY SECTION */
+            
+            .templateBody-grey{
+                /*@editable*/ background-color:#EEEEEE;
+                border-top: 1px solid #ecf0f3;
+                border-bottom: 1px solid #ecf0f3;
+            }
+
+            /**
+            * @tab Body
+            * @section body text
+            * @tip Set the styling for your email's main content text. Choose a size and color that is easy to read.
+            * @theme main
+            */
+            .bodyContent, .bodyContent-grey, .bodyContent-blue, .bodyContent-greyblue, .bodyContent-alsointhisish, .bodyContent-social{
+                /*@editable*/ color:#505050;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:14px;
+                /*@editable*/ line-height:150%;
+                padding-top:20px;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+                /*@editable*/ text-align:left;
+            }
+			
+            .article{
+                color:#505050;
+                font-family:Helvetica;
+                font-size:14px;
+                line-height:150%;
+                margin:0;
+                margin-top:0;
+                margin-right:0;
+                margin-bottom:0;
+                margin-left:0;
+                padding:0;
+                padding-top:0;
+                padding-right:0;
+                padding-bottom:0;
+                padding-left:0;
+                text-align:left;
+            }
+
+            /**
+            * @tab Body
+            * @section body link
+            * @tip Set the styling for your email's main content links. Choose a color that helps them stand out from your text.
+            */
+            .bodyContent a:link, .bodyContent a:visited, /* Yahoo! Mail Override */ .bodyContent a .yshortcuts /* Yahoo! Mail Override */{
+                /*@editable*/ color:#ed1c24;
+                /*@editable*/ text-decoration:none;
+            }
+            
+            
+            .bodyContent-grey a:link, .bodyContent-grey a:visited, /* Yahoo! Mail Override */ .bodyContent-grey a .yshortcuts /* Yahoo! Mail Override */{
+                /*@editable*/ color:#59676b;
+                /*@editable*/ text-decoration:none;
+            }
+
+            .bodyContent img, .bodyContent-grey img{
+                display:inline;
+                height:auto;
+                max-width:560px;
+            }
+            
+            /* FOR ALSO IN THIS ISSUE SECTION */
+            
+            .bodyContent-alsointhisish{
+                text-align:center;
+            }
+            
+            .bodyContent-alsointhisish h1 {
+                text-align:center;
+            }
+            
+            .bodyContent-alsointhisish p{
+                color: #606060;
+                display: block;
+                font-family: Helvetica, Arial, sans-serif;
+                font-size: 20px;
+                font-weight: bold;
+                line-height: 26px;
+                letter-spacing: normal;
+                margin-top: 0;
+                margin-right: 0;
+                margin-bottom: 10px;
+                margin-left: 0;
+                text-align: center!important; 
+            }
+            
+            .bodyContent-alsointhisish a:link, .bodyContent-alsointhisish a:visited, /* Yahoo! Mail Override */ .bodyContent-alsointhisish a .yshortcuts /* Yahoo! Mail Override */{
+                /*@editable*/ color:#59676b;
+                /*@editable*/ text-decoration:none;
+            }
+            
+            .bodyContent-social {
+                padding-top:10px;
+                padding-right:0;
+                padding-bottom:5px;
+                padding-left:0;
+                text-align:center;
+                border-top-width: 1px;
+                border-top-style: solid;
+                border-top-color: #ecf0f3;
+            }
+            
+            
+            /* ========== Column Styles ========== */
+
+            .templateColumnContainer{width:260px;}
+
+            /**
+            * @tab Columns
+            * @section column style
+            * @tip Set the background color and borders for your email's column area.
+            */
+            .templateColumns{
+                /*@editable*/ background-color:#FFFFFF;
+            }
+
+            /**
+            * @tab Columns
+            * @section left column text
+            * @tip Set the styling for your email's left column content text. Choose a size and color that is easy to read.
+            */
+            .leftColumnContent{
+                /*@editable*/ color:#505050;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:14px;
+                /*@editable*/ line-height:150%;
+                padding-top:0;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+                /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Columns
+            * @section left column link
+            * @tip Set the styling for your email's left column content links. Choose a color that helps them stand out from your text.
+            */
+            .leftColumnContent a:link, .leftColumnContent a:visited, /* Yahoo! Mail Override */ .leftColumnContent a .yshortcuts /* Yahoo! Mail Override */{
+                /*@editable*/ color:#59676b;
+                /*@editable*/ text-decoration:none;
+            }
+
+            /**
+            * @tab Columns
+            * @section right column text
+            * @tip Set the styling for your email's right column content text. Choose a size and color that is easy to read.
+            */
+            .rightColumnContent{
+                /*@editable*/ color:#505050;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:14px;
+                /*@editable*/ line-height:150%;
+                padding-top:0;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+                /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Columns
+            * @section right column link
+            * @tip Set the styling for your email's right column content links. Choose a color that helps them stand out from your text.
+            */
+            .rightColumnContent a:link, .rightColumnContent a:visited, /* Yahoo! Mail Override */ .rightColumnContent a .yshortcuts /* Yahoo! Mail Override */{
+                /*@editable*/ color:#59676b;
+                /*@editable*/ text-decoration:none;
+            }
+
+            .leftColumnContent img, .rightColumnContent img{
+                display:inline;
+                height:auto;
+                max-width:260px;
+            }
+
+            /* ========== Footer Styles ========== */
+
+            /**
+            * @tab Footer
+            * @section footer style
+            * @tip Set the background color and borders for your email's footer area.
+            * @theme footer
+            */
+            #templateFooter{
+                /*@editable*/ background-color:#EEEEEE;
+                /*@editable*/ border-top:1px solid #BEBEBE;
+            }
+
+            /**
+            * @tab Footer
+            * @section footer text
+            * @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+            * @theme footer
+            */
+            .footerContent{
+                /*@editable*/ color:#808080;
+                /*@editable*/ font-family:Helvetica;
+                /*@editable*/ font-size:10px;
+                /*@editable*/ line-height:150%;
+                padding-top:20px;
+                padding-right:20px;
+                padding-bottom:20px;
+                padding-left:20px;
+                /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Footer
+            * @section footer link
+            * @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+            */
+            .footerContent a:link, .footerContent a:visited, /* Yahoo! Mail Override */ .footerContent a .yshortcuts, .footerContent a span /* Yahoo! Mail Override */{
+                /*@editable*/ color:#606060;
+                /*@editable*/ font-weight:normal;
+                /*@editable*/ text-decoration:underline;
+            }
+            
+            /* FOR PROGRESSIVE DISCLOSURE BUTTON */
+            
+            a.mobileshow, .mobilehide { display: none !important; color: #fff; }
+
+            /* ///////// MOBILE STYLES ///////// */
+
+            @media only screen and (max-width: 480px){
+                /* /////// CLIENT-SPECIFIC MOBILE STYLES /////// */
+                body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} /* Prevent Webkit platforms from changing default text sizes */
+                body{width:100% !important; min-width:100% !important;} /* Prevent iOS Mail from adding padding to the body */
+
+                /* /////// MOBILE RESET STYLES /////// */
+                #bodyCell{padding:10px !important;}
+
+                /* /////// MOBILE TEMPLATE STYLES /////// */
+
+                /* ======== Page Styles ======== */
+
+                /**
+                * @tab Mobile Styles
+                * @section template width
+                * @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.
+                */
+                .templateContainer, .templateContainerMain{
+                    max-width:600px !important;
+                    /*@editable*/ width:100% !important;
+                }
+
+                /**
+                * @tab Mobile Styles
+                * @section heading 1
+                * @tip Make the first-level headings larger in size for better readability on small screens.
+                */
+                h1{
+                    /*@editable*/ font-size:24px !important;
+                    /*@editable*/ line-height:100% !important;
+                }
+
+                /**
+                * @tab Mobile Styles
+                * @section heading 2
+                * @tip Make the second-level headings larger in size for better readability on small screens.
+                */
+                h2{
+                    /*@editable*/ font-size:20px !important;
+                    /*@editable*/ line-height:120% !important;
+                }
+
+                /**
+                * @tab Mobile Styles
+                * @section heading 3
+                * @tip Make the third-level headings larger in size for better readability on small screens.
+                */
+                h3{
+                    /*@editable*/ font-size:18px !important;
+                    /*@editable*/ line-height:120% !important;
+                }
+
+                /**
+                * @tab Mobile Styles
+                * @section heading 4
+                * @tip Make the fourth-level headings larger in size for better readability on small screens.
+                */
+                h4{
+                    /*@editable*/ font-size:16px !important;
+                    /*@editable*/ line-height:100% !important;
+                }
+
+                /* ======== Header Styles ======== */
+
+                #templatePreheader{display:none !important;} /* Hide the template preheader to save space */
+
+                /**
+                * @tab Mobile Styles
+                * @section header image
+                * @tip Make the main header image fluid for portrait or landscape view adaptability, and set the image's original width as the max-width. If a fluid setting doesn't work, set the image width to half its original size instead.
+                */
+                #headerImage{
+                    height:auto !important;
+                    /*@editable*/ max-width:600px !important;
+                    /*@editable*/ width:100% !important;
+                }
+
+                /**
+                * @tab Mobile Styles
+                * @section header text
+                * @tip Make the header content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+                */
+                .headerContent{
+                    /*@editable*/ font-size:20px !important;
+                    /*@editable*/ line-height:125% !important;
+                }
+
+                /* ======== Body Styles ======== */
+
+                /**
+                * @tab Mobile Styles
+                * @section body text
+                * @tip Make the body content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+                */
+                .bodyContent, .bodyContent-grey /*.article */{
+                    /*@editable*/ font-size:18px !important;
+                    /*@editable*/ line-height:125% !important;
+                }
+                
+                /* ======== Column Styles ======== */
+
+                .templateColumnContainer{display:block !important; width:100% !important;}
+
+                /**
+                * @tab Mobile Styles
+                * @section column image
+                * @tip Make the column image fluid for portrait or landscape view adaptability, and set the image's original width as the max-width. If a fluid setting doesn't work, set the image width to half its original size instead.
+                */
+                .columnImage{
+                    height:auto !important;
+                    /*@editable*/ max-width:480px !important;
+                    /*@editable*/ width:100% !important;
+                }
+
+                /**
+                * @tab Mobile Styles
+                * @section left column text
+                * @tip Make the left column content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+                */
+                .leftColumnContent{
+                    /*@editable*/ font-size:16px !important;
+                    /*@editable*/ line-height:125% !important;
+                }
+
+                /**
+                * @tab Mobile Styles
+                * @section right column text
+                * @tip Make the right column content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+                */
+                .rightColumnContent{
+                    /*@editable*/ font-size:16px !important;
+                    /*@editable*/ line-height:125% !important;
+                }
+                
+
+                /* ======== Footer Styles ======== */
+
+                /**
+                * @tab Mobile Styles
+                * @section footer text
+                * @tip Make the body content text larger in size for better readability on small screens.
+                */
+                .footerContent{
+                    /*@editable*/ font-size:14px !important;
+                    /*@editable*/ line-height:115% !important;
+                }
+
+                .footerContent a{display:block !important;} /* Place footer social and utility links on their own lines, for easier access */
+                
+                /* GD MOBILE STYLES */
+                
+                .templateBody, .templateBody-grey{
+                position:relative;
+                }
+                
+                .topGraphicImage{
+                    height:auto !important;
+                    max-width:268px !important;
+                    width:100% !important;
+                }
+                
+                .socialIconsImage{
+                    height:auto !important;
+                    max-width:40px !important;
+                    width:100% !important;
+                }
+                
+                .website-logo{
+                    height:auto !important;
+                    max-width:270px !important;
+                    width:100% !important;
+                }
+                
+                .bodyContent-alsointhisish p{
+                font-size: 18px !important;
+                line-height: 125% !important;
+                }
+				
+				span[class=appleLinksGrey]{color: #808080; text-decoration:none;}
+                
+            }  
+    </style>
+</head>
+
+<body style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;background-color: #FFFFFF;height: 100%;width: 100%;">
+<table id="topTable" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0; padding: 0; background-color: #ffffff; border-collapse: collapse; width: 100%;" align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td id="topTableCell" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0; padding: 0; padding-top: 20px; padding-right: 0; padding-bottom: 0; padding-left: 0; width: 100%;" align="center" valign="top">
+
+<!-- So we don't get the top links showing on Apple Mail preview //-->
+                                    <div style="display:none;font-size:1px;color:#333333;line-height:1px;font-family: Helvetica, Arial, sans-serif; max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+                                        Open up the latest School Travel Organiser magazine
+                                    </div>
+                                    <!--// So we don't get the top links showing on Apple Mail preview -->
+                                    
+<table class="templateContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 600px; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table id="templatePreheader" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="preheaderContent" style="padding-top: 0; padding-right: 0; padding-bottom: 20px; padding-left: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #606060; font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 125%; text-align: center;" width="33%" valign="top"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #606060; font-weight: normal; text-decoration: underline;" href="[*link.webversion_url*]" target="_blank">Web version</a></td>
+<td class="preheaderContent" style="padding-top: 0; padding-right: 0; padding-bottom: 20px; padding-left: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #606060; font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 125%; text-align: center;" width="33%" valign="top"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #606060; font-weight: normal; text-decoration: underline;" href="[*link.simple_version_url*]" target="_blank">Text version</a></td>
+<td class="preheaderContent" style="padding-top: 0; padding-right: 0; padding-bottom: 20px; padding-left: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #606060; font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 125%; text-align: center;" width="33%" valign="top"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #606060; font-weight: normal; text-decoration: underline;" href="[*link.safe_sender_url*]" target="_blank">Add us to your safe senders</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="10" width="100%">
+<tbody>
+<tr>
+<td class="intro" valign="top">
+<h1 style="display: block; font-family: Helvetica, Arial, sans-serif; font-size: 28px; font-style: normal; font-weight: bold; line-height: 32px; letter-spacing: -1px; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: center; color: #ed1c24;">Inside your Spring <br />
+  School Travel Organiser</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="topGraphic" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #f1f1f1; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 16px; padding-bottom: 20px; padding-left: 16px; text-align: center;" valign="top"><a title="Click here to open Group Leisure" href="http://www.schooltravelorganiser.com/magazine" target="_blank"><img class="topGraphicImage" style="max-width: 268px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;" src="images/STOG-cover-260.jpg" alt="Click here to open Group Leisure"></a></td>
+<td class="topGraphic" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #f1f1f1; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 16px; padding-bottom: 20px; padding-left: 16px; text-align: center;" valign="top"><a title="Click here to open Group Leisure" href="http://www.schooltravelorganiser.com/magazine" target="_blank"><img class="topGraphicImage" style="max-width: 268px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;display:block;" src="images/call-to-action-inverse_01.gif" alt="New issue alert"></a>
+<a title="Click here to download Group Leisure on the Apple App Store" href="https://itunes.apple.com/gb/app/school-travel-organisers-guide/id857703707?mt=8" target="_blank"><img class="topGraphicImage" style="max-width: 268px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;display:block;" src="images/call-to-action-inverse_02.gif" alt="Download on the App Store"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- // END TOP CONTAINING TABLE -->
+<table id="bodyTable" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0; padding: 0; background-color: #ecf0f3; border-collapse: collapse; height: 100%; width: 100%;" align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td id="bodyCell" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0; padding: 20px; height: 100%; width: 100%;" align="center" valign="top"><!-- BEGIN TEMPLATE // -->
+<table class="templateContainerMain" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 600px; border: 1px solid #e2e5e8; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" align="center" valign="top"><!-- BEGIN INTRO // -->
+<table class="templateBody" style="border: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="bodyContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight:300; line-height: 20px; text-align: left; padding: 20px;" valign="top">
+<h2 style="font-weight: normal; display: block; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-weight:300; line-height: 26px; letter-spacing: normal; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: left; color: #59676b;">[* IF data('first_name') *] Dear [* data('first_name') | html *], [* ELSE *]Dear Reader, [* END *]
+<!--SPACING TABLE //-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="13" style="font-size:1px; line-height:1px;">&nbsp;</td>
+  </tr>
+</table>
+<!--// SPACING TABLE--> 
+Your spring <a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #ed1c24; font-weight:700; text-decoration: none;letter-spacing:-1px;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">School Travel Organiser</a> is now online for you to read, search and share.</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- // END INTRO --><!-- BEGIN COLUMNS ROW 1 // -->
+<table class="templateColumns" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 260px;" align="center" valign="top">
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="20" width="100%">
+<tbody>
+<tr>
+<td class="leftColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">
+<!--PLEASE REMEMBER IMAGES MUST BE SIZED AT 480px wide x 295px high, BUT SIZE DECLARED INLINE AS 260x160-->
+<img src="http://placehold.it/260x160" alt="Click here to read more..." width="260" height="160" class="columnImage" style="max-width: 260px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: inline;">
+</a></td>
+</tr>
+<tr>
+<td class="leftColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #59676b; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight:300; line-height: 22px; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;" valign="top">
+<h2 style="display: block; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-style: normal; font-weight: bold; line-height: 120%; letter-spacing: normal; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: left; color: #ed1c24;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #ed1c24; letter-spacing:-1px; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">Story One</a></h2>
+<p>Text here<i></i>.</p>
+<p><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; font-weight:700; letter-spacing:-1px; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">Open issue &rarr;</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 260px;" align="center" valign="top">
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="20" width="100%">
+<tbody>
+<tr>
+<td class="rightColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">
+<!--PLEASE REMEMBER IMAGES MUST BE SIZED AT 480px wide x 295px high, BUT SIZE DECLARED INLINE AS 260x160-->
+<img src="http://placehold.it/260x160" alt="Click here to read more..." width="260" height="160" class="columnImage" style="max-width: 260px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: inline;">
+</a></td>
+</tr>
+<tr>
+<td class="rightColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #59676b; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight:300; line-height: 22px; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;" valign="top">
+<h2 style="display: block; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-style: normal; font-weight: bold; line-height: 120%; letter-spacing: normal; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: left; color: #ed1c24;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #ed1c24; letter-spacing:-1px; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">Story Two</a></h2>
+<p>Text here.</p>
+<p><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; font-weight:700; letter-spacing:-1px; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">Open issue &rarr;</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- ALSO IN THIS ISSUE... // -->
+<table class="templateBody" style="border-top: 1px solid #ecf0f3;-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="bodyContent-alsointhisish" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 20px; font-weight:bold; line-height: 26px; text-align: center!important; padding: 20px;" valign="top">
+<h1 style="display: block; font-family: Helvetica, Arial, sans-serif; font-size: 26px; font-style: normal; font-weight: bold; line-height: 30px; letter-spacing: -1px; margin-top: 0; margin-right: 0; margin-bottom: 15px; margin-left: 0; text-align: center; color: #ed1c24;">Also in this issue...</h1>
+<p><a style="color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #ed1c24; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #ed1c24; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #ed1c24; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #ed1c24; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<p><a style="color: #ed1c24; text-decoration: none;" href="http://www.schooltravelorganiser.com/magazine" target="_blank">&bull; ???</a></p>
+<h1 style="margin-bottom: 10px; display: block; font-family: Helvetica, Arial, sans-serif; font-size: 26px; font-style: normal; font-weight: bold; line-height: 100%; letter-spacing: -1px; margin-top: 0; margin-right: 0; margin-left: 0; padding-top:5px; text-align: center; color: #ed1c24;">View our websites - click on the logo...</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- // ALSO IN THIS ISSUE... --><!-- BEGIN WEBSITE LOGOS // -->
+<table class="templateColumns" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 260px;" align="center" valign="top">
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="20" width="100%">
+<tbody>
+<tr>
+<td class="leftColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; text-decoration: none;" href="http://www.schooltravelorganiser.com" target="_blank"><img class="columnImage" style="max-width: 260px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: inline;" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/logos/sto_website.jpg" alt="schooltravelorganiser.com"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 260px;" align="center" valign="top">
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="20" width="100%">
+<tbody>
+<tr>
+<td class="rightColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; text-decoration: none;" href="http://www.groupleisure.com" target="_blank"><img class="columnImage" style="max-width: 260px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: inline;" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/logos/gldotcom_wide.jpg" alt="groupleisure.com"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 260px;" align="center" valign="top">
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="20" width="100%">
+<tbody>
+<tr>
+<td class="leftColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; text-decoration: none;" href="http://www.leisureshow.com" target="_blank"><img class="columnImage" style="max-width: 260px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: inline;" src="images/GLTS-logo.gif" alt="leisureshow.com"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 260px;" align="center" valign="top">
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="20" width="100%">
+<tbody>
+<tr>
+<td class="rightColumnContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 0; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; text-align: left;"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #59676b; text-decoration: none;" href="http://www.yandellmedia.com/leisureside-gl-awards.html" target="_blank"><img class="columnImage" style="max-width: 260px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: inline;" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/logos/gl_awards_logo.jpg" alt="Group Leisure Awards"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- // END WEBSITE LOGOS --
+><!-- SOCIAL ICONS // -->
+<table class="templateBody-grey" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f9f9f9; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="bodyContent-social" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight:300; line-height: 20px; padding-top: 10px; padding-right: 20px; padding-bottom: 10px; padding-left: 20px; text-align: center;" valign="top">
+<h3 style="display: block; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 300; line-height: 22px; letter-spacing: normal; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: center; color: #606060;">School Travel Organiser is also available <b style="font-weight:700;">FREE</b> on the<br> Apple app store. <a style="color: #ed1c24; text-decoration: none;" href="https://itunes.apple.com/gb/app/school-travel-organisers-guide/id857703707?mt=8" target="_blank">Download it today!</a></h3>
+<a href="https://itunes.apple.com/gb/app/school-travel-organisers-guide/id857703707?mt=8" target="_blank"><img style="max-width: 135px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;" src="http://msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/app.jpg" alt="Download the App on the App Store"></a></td>
+</tr>
+</tbody>
+</table>
+<table class="templateBody" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="bodyContent-social" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 130%; padding-top: 10px; padding-right: 0; padding-bottom: 5px; padding-left: 0; text-align: center;" valign="top">
+<h3 style="display: block; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 300; line-height: 22px; letter-spacing: normal; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: center; color: #606060;">Share this alert with colleagues and friends:</h3>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #ffffff; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="socialIconsGraphic" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #2f3035; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 150%; padding-top: 10px; padding-right: 16px; padding-bottom: 10px; padding-left: 16px; text-align: center;" width="24%" valign="top"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" href="[*link.share_url(2,'u=%24AMF_PERMALINK%24')*]" target="_blank"><img class="socialIconsImage" style="max-width: 40px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/facebook.gif" alt="Facebook"></a></td>
+<td class="socialIconsGraphic" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #2f3035; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 150%; padding-top: 10px; padding-right: 16px; padding-bottom: 10px; padding-left: 16px; text-align: center;" width="24%" valign="top"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" href="[*link.share_url(1,'status=%24AMF_SHORT_PERMALINK%24')*]" target="_blank"><img class="socialIconsImage" style="max-width: 40px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/twitter.gif" alt="Twitter"></a></td>
+<td class="socialIconsGraphic" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #2f3035; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 150%; padding-top: 10px; padding-right: 16px; padding-bottom: 10px; padding-left: 16px; text-align: center;" width="24%" valign="top"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" href="[*link.share_url(3,'mini=true&amp;url=%24AMF_PERMALINK%24&amp;title=%24AMF_SUBJECT_LINE%24')*]" target="_blank"><img class="socialIconsImage" style="max-width: 40px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/linkedin.gif" alt="LinkedIn"></a></td>
+<td class="socialIconsGraphic" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #2f3035; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 150%; padding-top: 10px; padding-right: 16px; padding-bottom: 10px; padding-left: 16px; text-align: center;" width="24%" valign="top"><a style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" href="[*link.share_url(9,'url=%24AMF_PERMALINK')*]" target="_blank"><img class="socialIconsImage" style="max-width: 40px; -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;" src="http://groupleisure.msgfocus.com/files/amf_yandell_publishing/project_3/GL-emag-alert-template/images/google.gif" alt="Google+"></a></td>
+</tr>
+</tbody>
+</table>
+<!-- // SOCIAL ICONS --></td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" align="center" valign="top"><!-- BEGIN FOOTER // -->
+<table id="templateFooter" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f9f9f9; border-top: 1px solid #ecf0f3; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="footerContent" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #808080; font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 150%; text-align: left; padding: 20px;" valign="top"><i>Copyright &copy; [* USE date *][* date.format(date.now, '%Y', 'en_GB') *] Yandell Media Group, All rights reserved.&nbsp;</i><br> 
+This e-mail is from Yandell Media Group, publishers of School Travel Organiser and schooltravelorganiser.com. Please do not reply to this message as it is an automated e-mail. If you do not want to receive future mailings and other messages about Group Leisure we feel will be of interest, you can unsubscribe by <a style="color: #ed1c24; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; font-weight: normal; text-decoration: underline;" href="[*link.unsub_url*]">clicking here</a><br> <br> <b>Our mailing address is:</b><br>
+<span class="appleLinksGrey">Yandell Publishing Ltd, PO Box 5122, Milton Keynes MK15 8ZP. Registered No. 1975794.</span></td>
+</tr>
+</tbody>
+</table>
+<!-- // END FOOTER --></td>
+</tr>
+</tbody>
+</table>
+<!-- // END TEMPLATE --></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
